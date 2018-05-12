@@ -1,0 +1,31 @@
+_repo: La-gran-aldea--costumbres-bonaerenses_31724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: López, Lucio Vicente
+    aliases:
+    - Lopez, Lucio Vicente
+    - López, Lucio V.
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '35431'
+    url: http://www.gutenberg.org/2009/agents/35431
+    wikipedia: http://es.wikipedia.org/wiki/Lucio_Vicente_L%C3%B3pez
+description: ''
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31724'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buenos Aires (Argentina) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Argentine fiction -- 19th century'
+- !lcc 'PQ'
+title: La gran aldea; costumbres bonaerenses
+url: http://www.gutenberg.org/ebooks/31724
