@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35431
     wikipedia: http://es.wikipedia.org/wiki/Lucio_Vicente_L%C3%B3pez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31724#La-gran-aldea--costumbres-bonaerenses
 gutenberg_issued: '2010-03-21'
 gutenberg_type: Text
 identifiers:
